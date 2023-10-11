@@ -2,8 +2,8 @@
  <img style="border-radius: 50%;" src="https://instagram.fcnf1-1.fna.fbcdn.net/v/t51.2885-15/240646454_644548266522378_6425989851808428144_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcnf1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=hXSH9UP1jUoAX90wgfW&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjY0ODM4MTM5OTMxMTEyNzYzMA%3D%3D.2-ccb7-4&oh=00_AT_iD0Yd4Ml7q28Q_Hhm62MglwW8-M64DXDuUkRrrJv7aA&oe=62704549&_nc_sid=30a2ef" width="100px;" alt=""/>
  <br />
  <sub><b>Igor Neves</b></sub></a> <a href="https://www.linkedin.com/in/igor-neves-5459b0186/" title="Rocketseat">🚀</a>
- <br/> 🔭 Atualmente trabalhando na BRQ Digital Solutions
- <br/> 🌱 Aprendendo Java com foco em Back-end, SpringBoot. JavaScript e React Native.
+ <br/> 🔭 Atualmente trabalhando na Siplan
+ <br/> 🌱 Aprendendo Java com foco em SpringBoot. JavaScript e Angular.
 
 Feito com ❤️ por Igor Neves 👋🏽 Entre em contato!
 
